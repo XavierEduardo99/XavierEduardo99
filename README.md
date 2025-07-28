@@ -6,6 +6,7 @@ My journey is fueled by curiosity, a commitment to freedom in computing, and the
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javiervintimilla99) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/XavierEduardo99) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/XavierEduardo99) 
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/XavierEduardo99) 
 
 # 💻 Tech Stack:
 
